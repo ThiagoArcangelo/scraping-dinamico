@@ -1,0 +1,11 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Scraping Ecomerce",
+  "main": "index.js",
+  "author": "Thiago",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.5.2"
+  }
+}
